@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 # Qiita Articles
+<!-- profile updater begin: qiita -->
+<!-- profile updater end: qiita -->
 
 <!--
 **Komatsu-T/Komatsu-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
