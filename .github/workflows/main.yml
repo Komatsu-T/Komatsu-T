@@ -10,6 +10,7 @@ jobs:
       - uses: kumackey/profile-updater@v1
         with:
           qiita_user_id: tabintone
+          qiita_max_articles: 10
       - name: Commit and push
         run: |
           git config --local user.name "GitHub Actions"
