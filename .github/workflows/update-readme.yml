@@ -4,3 +4,17 @@ on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - run: pip install -r update_readme/requirements.txt
+
+      - run: python update_readme/update_readme.py
