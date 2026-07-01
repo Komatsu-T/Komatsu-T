@@ -4,7 +4,7 @@
 [![](https://raw.githubusercontent.com/Komatsu-T/Komatsu-T/main/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Komatsu-T/Komatsu-T/main/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 # Qiita Articles
-<!-- ARTICLES:START -->
+<!-- Qiita_ARTICLES:START -->
 - [ガウス-マルコフの定理から『線形』を外せるって本当なの？ A Modern Gauss-Markov Theorem論争まとめ](https://qiita.com/tabintone/items/1dc99f1e190735d90d24) :heart: 0 (2026-05-17)
 - [PyTorch：訓練モードと推論モードでモデルの挙動を変える](https://qiita.com/tabintone/items/64228a0978bf0b813704) :heart: 1 (2024-06-23)
 - [約1ヵ月でE資格に合格したので勉強内容まとめ 2024#1](https://qiita.com/tabintone/items/4093436c4315c4057efe) :heart: 7 (2024-03-24)
@@ -21,7 +21,7 @@
 - [一般化加法モデルを用いた回帰分析①](https://qiita.com/tabintone/items/96afd222d92e876c51d1) :heart: 32 (2021-01-02)
 - [分散分析の平方和のタイプについてまとめた](https://qiita.com/tabintone/items/6327757450896636155a) :heart: 10 (2021-01-02)
 - [不偏分散の平方根は母標準偏差の不偏推定量ではないという話](https://qiita.com/tabintone/items/be96333166dd6d337ee8) :heart: 7 (2020-11-16)
-<!-- ARTICLES:END -->
+<!-- Qiita_ARTICLES:END -->
 
 <!--
 **Komatsu-T/Komatsu-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

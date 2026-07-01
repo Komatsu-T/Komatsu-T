@@ -5,8 +5,8 @@ import requests
 
 QIITA_USER_ID = 'tabintone'
 PER_PAGE = 100
-START_MARKER = '<!-- ARTICLES:START -->'
-END_MARKER = '<!-- ARTICLES:END -->'
+START_MARKER = '<!-- Qiita_ARTICLES:START -->'
+END_MARKER = '<!-- Qiita_ARTICLES:END -->'
 README_PATH = './README.md'
 
 def fetch_articles(user_id: str, per_page: int) -> list:
