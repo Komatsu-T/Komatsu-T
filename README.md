@@ -9,7 +9,7 @@
 - [PyTorch：訓練モードと推論モードでモデルの挙動を変える](https://qiita.com/tabintone/items/64228a0978bf0b813704) :heart: 1 (2024-06-23)
 - [約1ヵ月でE資格に合格したので勉強内容まとめ 2024#1](https://qiita.com/tabintone/items/4093436c4315c4057efe) :heart: 7 (2024-03-24)
 - [統計学の勉強中に急にスティルチェス積分が出てきたときのために概要を理解しておこう](https://qiita.com/tabintone/items/19b9f40a73d4900b7d16) :heart: 14 (2023-08-16)
-- [分位点回帰の基本的なところ](https://qiita.com/tabintone/items/518843802d894bcb4faf) :heart: 6 (2023-07-13)
+- [分位点回帰の基本的なところ](https://qiita.com/tabintone/items/518843802d894bcb4faf) :heart: 7 (2023-07-13)
 - [Welchのt検定ってどこから来たの？](https://qiita.com/tabintone/items/1ab13e431d59402f6ee3) :heart: 10 (2022-07-24)
 - [一般化加法モデルを用いた回帰分析④：Neural Additive Models](https://qiita.com/tabintone/items/1469a01a743eb9370c8e) :heart: 4 (2022-04-04)
 - [CNNによる画像分類：背景の影響を低減させる正則化](https://qiita.com/tabintone/items/8f5593bf1083a55c4b72) :heart: 41 (2022-01-04)
