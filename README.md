@@ -19,7 +19,7 @@
 - [一般化加法モデルを用いた回帰分析②：P-spline](https://qiita.com/tabintone/items/aa6857686713fc464a1e) :heart: 4 (2021-06-12)
 - [PyTorchで線形回帰+L1/L2正則化](https://qiita.com/tabintone/items/790729a89ed84bb21b74) :heart: 15 (2021-02-28)
 - [一般化加法モデルを用いた回帰分析①](https://qiita.com/tabintone/items/96afd222d92e876c51d1) :heart: 32 (2021-01-02)
-- [分散分析の平方和のタイプについてまとめた](https://qiita.com/tabintone/items/6327757450896636155a) :heart: 10 (2021-01-02)
+- [分散分析の平方和のタイプについてまとめた](https://qiita.com/tabintone/items/6327757450896636155a) :heart: 11 (2021-01-02)
 - [不偏分散の平方根は母標準偏差の不偏推定量ではないという話](https://qiita.com/tabintone/items/be96333166dd6d337ee8) :heart: 7 (2020-11-16)
 <!-- Qiita_ARTICLES:END -->
 
