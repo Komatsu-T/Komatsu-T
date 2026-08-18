@@ -5,7 +5,7 @@
 
 # Qiita Articles
 <!-- Qiita_ARTICLES:START -->
-- [ガウス-マルコフの定理から『線形』を外せるって本当なの？ A Modern Gauss-Markov Theorem論争まとめ](https://qiita.com/tabintone/items/1dc99f1e190735d90d24) :heart: 0 (2026-05-17)
+- [ガウス-マルコフの定理から『線形』を外せるって本当なの？ A Modern Gauss-Markov Theorem論争まとめ](https://qiita.com/tabintone/items/1dc99f1e190735d90d24) :heart: 1 (2026-05-17)
 - [PyTorch：訓練モードと推論モードでモデルの挙動を変える](https://qiita.com/tabintone/items/64228a0978bf0b813704) :heart: 1 (2024-06-23)
 - [約1ヵ月でE資格に合格したので勉強内容まとめ 2024#1](https://qiita.com/tabintone/items/4093436c4315c4057efe) :heart: 7 (2024-03-24)
 - [統計学の勉強中に急にスティルチェス積分が出てきたときのために概要を理解しておこう](https://qiita.com/tabintone/items/19b9f40a73d4900b7d16) :heart: 14 (2023-08-16)
